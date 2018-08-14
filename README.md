@@ -12,7 +12,7 @@
 Useful links:
 - [10 things Python programmers should know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/
 )
-- [All about lists] ( http://effbot.org/zone/python-list.htm )
+- [All about lists]( http://effbot.org/zone/python-list.htm )
 
 
 #### Discussion Topics:
