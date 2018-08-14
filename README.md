@@ -10,6 +10,7 @@
 8. List comprehension - factorials
 
 Useful links:
+- [Python Packaging](https://realpython.com/python-modules-packages/)
 - [10 things Python programmers should know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/
 )
 - [All about lists]( http://effbot.org/zone/python-list.htm )
