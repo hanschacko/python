@@ -14,7 +14,7 @@ Useful links:
 )<br>
 
 
-###Discussion Topics:
+#### Discussion Topics:
 - Github
 - Using map functions
 
