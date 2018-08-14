@@ -12,7 +12,9 @@
 Useful links:
 - [10 things Python programmers should know](https://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/
 )<br>
-####Discussion Topics:
+
+
+###Discussion Topics:
 - Github
 - Using map functions
 
